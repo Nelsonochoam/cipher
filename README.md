@@ -30,7 +30,13 @@ output = "1n4th2r m2ss1g2 h2r2!"
 On the root directory
 
 ```
-npm install or yarn install
+npm install
+```
+
+or 
+
+```
+yarn
 ```
 
 ### Run tests
